@@ -6,7 +6,9 @@
 - 🌱 I’m addicted to learning and growing every day
 - 🌍 I am currently sharing a little bit of my knowledge to the world through [my youtube channel](https://www.youtube.com/channel/UC1G9OlaRBvIkXwaisdzw-lg)!
 - 📫 How to find me: 
-  - 📧 [soham@thecalt.com](soham@thecalt.com)
+  - 📧 [soham@thecalt.com](mailto:soham@thecalt.com)
+  - :point_right: [TheCALT](https://thecalt.com/)
+  - 📹 [Youtube Channel](https://www.youtube.com/channel/UC1G9OlaRBvIkXwaisdzw-lg)
 
 [![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamgarg2020&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
