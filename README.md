@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Soham! 👋
 
-<!--
-**sohamgarg2020/sohamgarg2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :zap: I love math, programming, reading books, and playing basketball :basketball:
+- 🌱 I’m addicted to learning and growing every day
+- 🌍 I am currently sharing a little bit of my knowledge to the world through [my youtube channel](https://www.youtube.com/channel/UC1G9OlaRBvIkXwaisdzw-lg)!
+- 📫 How to find me: 
+  - 📧 [soham@thecalt.com](soham@thecalt.com)
 
-[![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamgarg2020&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/sohamgarg2020/github-readme-stats)
+[![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamgarg2020&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamgarg2020)](https://github.com/anuraghazra/github-readme-stats)
